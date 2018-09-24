@@ -1,6 +1,7 @@
 # hello-world
 Hello world!
-gareth = awesome
+
+const gareth = awesome
 if (gareth === awesome) {
 console.log('Gareth is awesome')};
 
